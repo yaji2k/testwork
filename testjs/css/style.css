@@ -1,0 +1,13 @@
+.coord {
+    max-width: 100%;
+    margin: 20px;
+    color: red;
+}
+.block {
+    background: grey; 
+    margin-top: 25px;
+    padding: 25px;
+}
+.item {
+    background: green; 
+}
